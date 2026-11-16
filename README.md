@@ -16,5 +16,6 @@
 - Git & GitHub
 
 ### Projects
-*Coming soon...*
+
+- [**Real Estate ML Lab**](https://github.com/a-tusevscaia/real-estate-ml-lab) — six machine learning labs on a real estate dataset: regression, classification, clustering, dimensionality reduction, pattern mining and anomaly detection. Python, scikit-learn, pandas.
 
