@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anastasia 👋
 
-<!--
-**a-tusevscaia/a-tusevscaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Information Technologies in Data Analysis at ASEM.
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst interested in data analysis, visualization and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Visualization:** Power BI, Matplotlib
+- **Tools:** KNIME, Jupyter Notebook
+
+### Currently Learning
+- Data Analytics
+- Python for Data Analysis
+- Git & GitHub
+
+### Projects
+*Coming soon...*
+
